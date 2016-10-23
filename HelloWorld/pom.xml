@@ -17,13 +17,15 @@
   
   <!-- https://mvnrepository.com/artifact/org.springframework/spring-core -->
 <!-- deleted-->
+	  
+	  
   
   
   <!-- https://mvnrepository.com/artifact/org.springframework/spring-webmvc -->
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>4.3.3.RELEASE</version>
+    <version>4.0.1.RELEASE</version>
 </dependency>
   <!-- to include core tag  -->
 <dependency>
